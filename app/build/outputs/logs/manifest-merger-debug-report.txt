@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:2:1-21:12
+	xmlns:android
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:3:7-21
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:7:5-17:19
+	android:icon
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:7:18-47
+activity#game.Game
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:8:9-16:20
+	android:screenOrientation
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:11:19-56
+	android:label
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:9:19-46
+	android:configChanges
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:10:19-78
+	android:name
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:8:19-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:14:27-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:19:22-78
+uses-sdk
+ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:20:5-72
+	android:targetSdkVersion
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:20:41-70
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml:20:15-40
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\StarTunnel\app\src\main\AndroidManifest.xml
